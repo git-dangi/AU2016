@@ -36,7 +36,8 @@ public static void main(String[] args)
 {	impl obj= new impl();
 	Integer val1, val2, choice;
 	Scanner input =new Scanner (System.in);
-	//System.out.println("Enter your first name");
+	System.out.println("This is my first java project");
+	
 	System.out.println("Enter your val1");
 	val1=input.nextInt();
 	System.out.println("Enter your val2");
